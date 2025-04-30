@@ -1,0 +1,5 @@
+tk
+pandas
+qrcode
+Pillow
+reportlab
