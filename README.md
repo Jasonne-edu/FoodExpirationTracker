@@ -3,7 +3,7 @@
 To test the QR code scanning feature:
 
 1. Open the GUI and click the **"📷 Scan QR"** button.
-2. Hold one of the sample QR images from the `qr_demos/` folder in front of your webcam.
+2. Hold one of the sample QR images from the `qr_demos` folder in front of your webcam.
 3. The scanned food name will automatically fill into the input field.
 
 **Demo Images:**
