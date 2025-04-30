@@ -1,14 +1,34 @@
-## 📷 QR Code Demo
+# 🥫 Food Expiration Tracker
 
-To test the QR code scanning feature:
+A user-friendly Python GUI app to track food items, estimate realistic expiration dates, and promote food safety. Designed for fresh, cooked, canned, and refrigerated foods.
 
-1. Open the GUI and click the **"📷 Scan QR"** button.
-2. Hold one of the sample QR images from the `qr_demos` folder in front of your webcam.
-3. The scanned food name will automatically fill into the input field.
+---
 
-**Demo Images:**
-- `qr_demos/canned_beans.png`
-- `qr_demos/qr_sample_1.png`
+## 🚀 Features
 
-You can generate more QR codes using free tools like [QRCode Monkey](https://www.qrcode-monkey.com/) or [goqr.me](https://goqr.me/), and place them in the same folder.
+- GUI built with Tkinter
+- Expiration estimation based on food type
+- Manual entry or QR code scanning
+- Stores entries in `food_records.csv`
+- Reminder system for expiring items
+- PDF report generation
+- Health and storage safety tips
 
+---
+
+## 📸 QR Demo Images
+
+These QR codes simulate canned food input:
+
+| Canned Beans | QR Demo 1 |
+|--------------|------------|
+| ![Canned Beans](qr_demos/canned_beans.png) | ![QR Demo 1](qr_demos/qr_demo_1.png) |
+
+---
+
+## 🧩 Requirements
+
+Install dependencies via pip:
+
+```bash
+pip install -r requirements.txt
