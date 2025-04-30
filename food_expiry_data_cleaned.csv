@@ -1,0 +1,23 @@
+Name,Type,Room Temp Days,Refrigerated Days,Frozen Days,Storage Tip
+Apple,fresh,10,30,180,"Keep in a cool, dark place or refrigerate for longer shelf life."
+Banana,fresh,5,7,,Store at room temperature. Refrigerate if overripe.
+Carrot,fresh,7,21,365,Refrigerate in a perforated plastic bag.
+Tomato,fresh,5,10,,Store at room temperature. Avoid refrigerating unripe tomatoes.
+Chicken (Cooked),cooked,,3,90,Refrigerate immediately and consume within 3 days.
+Beef (Cooked),cooked,,4,90,Store in airtight container in fridge or freeze.
+Milk,fresh,,7,30,Refrigerate below 4°C. Do not freeze.
+Yogurt,fresh,,14,60,Keep refrigerated. Seal tightly.
+Baked Beans,canned,365,365,365,Store in a dry place. Refrigerate after opening.
+Tuna (Canned),canned,720,720,720,Store unopened cans in a cool cupboard.
+White Rice (Dry),dried,730,1095,1095,Keep in airtight container in cool place.
+Oats,dried,180,365,365,Store in airtight container in pantry or fridge.
+Eggs (Boiled),cooked,,7,,Refrigerate after cooking and use within 1 week.
+Spinach,fresh,2,7,180,Refrigerate in plastic bag.
+Lettuce,fresh,2,5,,Store in refrigerator in crisper drawer.
+Bread,fresh,7,10,60,Keep sealed at room temp or freeze to extend shelf life.
+Strawberries,fresh,2,5,180,Refrigerate in a breathable container.
+Cheese,fresh,,30,90,Refrigerate and keep sealed to avoid drying.
+Butter,fresh,14,90,180,Store in fridge. Can be frozen for long-term use.
+Corn (Canned),canned,540,540,540,"Unopened cans should be stored in cool, dry place."
+Tangerine,fresh,15,60,365,"Keep in a cool, dark place or refrigerate for longer shelf life."
+Banku and Tilapia,cooked,2,10,60,Refrigerate in a breathable container.
