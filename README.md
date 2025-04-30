@@ -11,3 +11,4 @@ To test the QR code scanning feature:
 - `qr_demos/qr_sample_1.png`
 
 You can generate more QR codes using free tools like [QRCode Monkey](https://www.qrcode-monkey.com/) or [goqr.me](https://goqr.me/), and place them in the same folder.
+
